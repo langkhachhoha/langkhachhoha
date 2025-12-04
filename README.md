@@ -11,7 +11,9 @@
 ✨ **Welcome to my GitHub profile** — a place where I explore and build at the intersection of **AI-driven Optimization**, **Generative AI**, and **Intelligent Agent Systems**.
 
 🎓 I am a researcher in **Artificial Intelligence**, focusing on **Large Language Models (LLMs)**, **Generative AI**, and **Operations Research**.
+
 🤖 I design, develop, and analyze **optimization algorithms**, enhanced by **LLM-guided heuristics**, generative mechanisms, and adaptive search strategies.
+
 📊 My research advances **AI for scientific discovery and applied domains**, tackling challenging optimization and decision-making problems.
 
 🧠 Recently, I have also been working on **practical agent systems** — designing **autonomous, reasoning-driven AI agents** capable of planning, tool-use, multimodal perception, and long-term memory. These systems aim to bridge the gap between theoretical AI models and **real-world, production-ready applications**.
