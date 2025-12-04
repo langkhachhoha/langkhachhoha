@@ -3,17 +3,29 @@
 ![Profile views](https://komarev.com/ghpvc/?username=langkhachhoha&color=blue&style=flat-square)
 
 
+---
+
 ### 👋 Hi, I'm **Ha Minh Hieu**
 
-✨ **Welcome to my GitHub profile** — where I share projects, research, and experiments at the intersection of **AI-driven Optimization** and **Generative AI for Operations Research**.
+✨ **Welcome to my GitHub profile** — a place where I explore and build at the intersection of **AI-driven Optimization**, **Generative AI**, and **Intelligent Agent Systems**.
 
-🎓 I am a researcher in **Artificial Intelligence**, with a focus on **Generative AI, Large Language Models (LLMs), and Operations Research**.  
-🤖 I develop and analyze **optimization algorithms**, enhanced by **LLM-driven heuristics** and generative techniques.  
-📊 My research advances **AI for scientific discovery and applied domains**, tackling challenging problems in operations research.  
-🎨 Beyond academia, I enjoy creating **AI applications** with **intuitive, user-friendly interfaces**, leveraging the full potential of AI in practical and impactful ways.  
+🎓 I am a researcher in **Artificial Intelligence**, focusing on **Large Language Models (LLMs)**, **Generative AI**, and **Operations Research**.
+🤖 I design, develop, and analyze **optimization algorithms**, enhanced by **LLM-guided heuristics**, generative mechanisms, and adaptive search strategies.
+📊 My research advances **AI for scientific discovery and applied domains**, tackling challenging optimization and decision-making problems.
 
-💡 Currently, my work centers on **AI for optimization problems**, especially **LLM-assisted automatic heuristic design** that reduces reliance on domain experts.  
-I welcome collaborations on diverse automation challenges — from **routing and navigation** to **robotics and beyond**.  
+🧠 Recently, I have also been working on **practical agent systems** — designing **autonomous, reasoning-driven AI agents** capable of planning, tool-use, multimodal perception, and long-term memory. These systems aim to bridge the gap between theoretical AI models and **real-world, production-ready applications**.
+
+🎨 Beyond research, I enjoy building **intuitive and user-centered AI applications**, ensuring that high-level AI capabilities translate into **practical, reliable, and impactful tools**.
+
+💡 My current work centers on **AI for optimization**, especially:
+
+* **LLM-assisted automatic heuristic design** (reducing human domain-expert dependence)
+* **Generative & multimodal guidance for search algorithms**
+* **Agent-based frameworks for routing, navigation, and robotics**
+
+🤝 I welcome collaborations on AI-powered systems — from **combinatorial optimization** and **agent reasoning** to **robotics**, **automation**, and beyond.
+
+---
 
 ---
 
