@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00C853&center=true&vCenter=true&width=950&lines=🚀+You+bring+the+problem,+I+bring+the+AI;Together,+we+make+it+work!;Collaboration+turns+challenges+into+innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3800&pause=1100&color=00C8FF&center=true&vCenter=true&width=1000&lines=🚀+Turning+Complexity+Into+Intelligence;AI+for+Optimization,+Agents,+and+Automation;Let’s+build+real-world+AI+systems+together!)](https://git.io/typing-svg)
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=langkhachhoha&color=blue&style=flat-square)
 
@@ -24,8 +25,6 @@
 * **Agent-based frameworks for routing, navigation, and robotics**
 
 🤝 I welcome collaborations on AI-powered systems — from **combinatorial optimization** and **agent reasoning** to **robotics**, **automation**, and beyond.
-
----
 
 ---
 
